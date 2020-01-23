@@ -1,0 +1,8 @@
+/private/var/folders/bb/n7t3rs157850byt_jfdcq9k80000gn/T/pip-req-build-z8o4dvuq/build/lib.macosx-10.6-intel-3.7/atari_py/ale_interface/build/CMakeFiles/install/local.dir
+/private/var/folders/bb/n7t3rs157850byt_jfdcq9k80000gn/T/pip-req-build-z8o4dvuq/build/lib.macosx-10.6-intel-3.7/atari_py/ale_interface/build/CMakeFiles/rebuild_cache.dir
+/private/var/folders/bb/n7t3rs157850byt_jfdcq9k80000gn/T/pip-req-build-z8o4dvuq/build/lib.macosx-10.6-intel-3.7/atari_py/ale_interface/build/CMakeFiles/ale-c-lib.dir
+/private/var/folders/bb/n7t3rs157850byt_jfdcq9k80000gn/T/pip-req-build-z8o4dvuq/build/lib.macosx-10.6-intel-3.7/atari_py/ale_interface/build/CMakeFiles/edit_cache.dir
+/private/var/folders/bb/n7t3rs157850byt_jfdcq9k80000gn/T/pip-req-build-z8o4dvuq/build/lib.macosx-10.6-intel-3.7/atari_py/ale_interface/build/CMakeFiles/list_install_components.dir
+/private/var/folders/bb/n7t3rs157850byt_jfdcq9k80000gn/T/pip-req-build-z8o4dvuq/build/lib.macosx-10.6-intel-3.7/atari_py/ale_interface/build/CMakeFiles/install/strip.dir
+/private/var/folders/bb/n7t3rs157850byt_jfdcq9k80000gn/T/pip-req-build-z8o4dvuq/build/lib.macosx-10.6-intel-3.7/atari_py/ale_interface/build/CMakeFiles/install.dir
+/private/var/folders/bb/n7t3rs157850byt_jfdcq9k80000gn/T/pip-req-build-z8o4dvuq/build/lib.macosx-10.6-intel-3.7/atari_py/ale_interface/build/CMakeFiles/uninstall.dir

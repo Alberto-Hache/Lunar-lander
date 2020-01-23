@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/private/var/folders/bb/n7t3rs157850byt_jfdcq9k80000gn/T/pip-req-build-z8o4dvuq/build/lib.macosx-10.6-intel-3.7/atari_py/ale_interface/src/external/TinyMT/tinymt32.c
+tinymt32.h
+/private/var/folders/bb/n7t3rs157850byt_jfdcq9k80000gn/T/pip-req-build-z8o4dvuq/build/lib.macosx-10.6-intel-3.7/atari_py/ale_interface/src/external/TinyMT/tinymt32.h
+
+/private/var/folders/bb/n7t3rs157850byt_jfdcq9k80000gn/T/pip-req-build-z8o4dvuq/build/lib.macosx-10.6-intel-3.7/atari_py/ale_interface/src/external/TinyMT/tinymt32.h
+stdint.h
+-
+inttypes.h
+-
+
